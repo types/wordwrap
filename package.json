@@ -1,0 +1,6 @@
+{
+  "name": "@types/wordwrap",
+  "version": "1.0.0",
+  "typings": "index.d.ts",
+  "description": "Typings for wordwrap"
+}
